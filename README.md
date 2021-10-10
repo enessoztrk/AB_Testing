@@ -12,10 +12,10 @@ as an alternative to the export type, a new bid type, average bidding, is used h
 ## ● Variables <br/>
 
 ▶ Impression<br/>
--Ad views <br/>
+• Ad views <br/>
 ▶ Click<br/>
--Indicates the number of clicks on the displayed ad.<br/>
+• Indicates the number of clicks on the displayed ad.<br/>
 ▶Purchase <br/>
--Indicates the number of products purchased after the ads clicked<br/>
+• Indicates the number of products purchased after the ads clicked<br/>
 ▶Earning <br/>
--Earnings after purchased products
+• Earnings after purchased products
